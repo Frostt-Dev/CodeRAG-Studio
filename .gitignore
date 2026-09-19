@@ -4,6 +4,8 @@
 .env.*.local
 *.pem
 *.key
+RESUME_AND_INTERVIEW_GUIDE.md
+*RESUME*.md
 
 # Virtual environments
 .venv/

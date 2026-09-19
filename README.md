@@ -217,7 +217,6 @@ Production Rag/
 │   ├── tailwind.config.js
 │   └── vite.config.ts
 ├── docker-compose.yml               # PostgreSQL 16 with pgvector extension
-├── RESUME_AND_INTERVIEW_GUIDE.md    # Resume bullet points & technical interview prep
 └── README.md
 ```
 
